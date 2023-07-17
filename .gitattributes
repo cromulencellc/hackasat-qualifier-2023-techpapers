@@ -1,2 +1,4 @@
 hackasat-qualifier-2023-techpapers.pdf filter=lfs diff=lfs merge=lfs -text
 HAS4[[:space:]]Top[[:space:]]8[[:space:]]Quals[[:space:]]Tech[[:space:]]Papers.pdf filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
